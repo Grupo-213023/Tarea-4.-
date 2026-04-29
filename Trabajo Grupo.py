@@ -2,8 +2,7 @@
 # Curso: Programacion
 # Ejercicio 1 - Sistema Integral de Gestion de Clientes,
 # Servicios y Reservas para Software FJ
-# Desarrollo segun requerimientos del PDF
-#-------------------------------------------------------
+
 import logging
 from abc import ABC, abstractmethod
 
